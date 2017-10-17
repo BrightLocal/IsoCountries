@@ -807,7 +807,7 @@ class IsoCountries {
         $iso3Code = strlen($code) === 2 ? $this->convertIso2($code) : $code;
         $name = $this->getName($iso3Code);
         if (array_search($iso3Code, $this->iso3WithArticle, true)) {
-            $name = 'The ' . $name;
+            $name = 'the ' . $name;
         }
         return $name;
     }

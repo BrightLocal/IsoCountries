@@ -231,7 +231,7 @@ class IsoCountries {
         'SWE' => 'Sweden',
         'CHE' => 'Switzerland',
         'SYR' => 'Syrian Arab Republic',
-        'TWN' => 'Taiwan, Province of China',
+        'TWN' => 'Taiwan',
         'TJK' => 'Tajikistan',
         'TZA' => 'Tanzania, United Republic of',
         'THA' => 'Thailand',

@@ -242,7 +242,7 @@ class IsoCountries {
         'TON' => ['Tonga'],
         'TTO' => ['Trinidad and Tobago'],
         'TUN' => ['Tunisia'],
-        'TUR' => ['Turkey'],
+        'TUR' => ['Turkey','Türkiye'],
         'TKM' => ['Turkmenistan'],
         'TCA' => ['Turks and Caicos Islands'],
         'TUV' => ['Tuvalu'],
